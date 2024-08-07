@@ -2,7 +2,7 @@
 - 👀 I’m interested in program building
 - 🌱 I’m currently learning cse and specialisation in AI
 - 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me via gmail.com at harshit33905@gmail.com
+- 📫 How to reach me via gmail.com at harshiotic@gmail.com
 
 <---
 harshitsoni121/harshitsoni121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
